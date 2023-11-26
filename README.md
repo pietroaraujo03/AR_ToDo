@@ -18,6 +18,7 @@ O aplicativo ToDo foi desenvolvido como parte de um projeto acadêmico utilizand
  - [Como Criar uma Toolbar Customizada](https://www.youtube.com/watch?v=EYuwQGhC8zs&t=1092s)
  - [How to make Toolbar in Android Studio](https://www.youtube.com/watch?v=Dt2L6D27PtE)
  - [Criar seu primeiro app](https://developer.android.com/training/basics/firstapp?hl=pt-br)
+ - [Adicionando Menu Toolbar Activity](https://www.youtube.com/watch?v=uPdnW0Zxmr4&t=192s)
 
 ## Screenshots
 
